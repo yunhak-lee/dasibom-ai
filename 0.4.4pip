@@ -1,0 +1,14 @@
+Collecting attrs
+  Downloading attrs-25.4.0-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: flatbuffers in c:\users\ekzmd\desktop\dasibom-project\dasibom-ai\venv\lib\site-packages (25.9.23)
+Requirement already satisfied: matplotlib in c:\users\ekzmd\desktop\dasibom-project\dasibom-ai\venv\lib\site-packages (3.9.2)
+Collecting matplotlib
+  Using cached matplotlib-3.10.7-cp313-cp313-win_amd64.whl.metadata (11 kB)
+Requirement already satisfied: numpy in c:\users\ekzmd\desktop\dasibom-project\dasibom-ai\venv\lib\site-packages (2.1.3)
+Collecting numpy
+  Using cached numpy-2.3.4-cp313-cp313-win_amd64.whl.metadata (60 kB)
+Collecting opencv-contrib-python
+  Downloading opencv_contrib_python-4.12.0.88-cp37-abi3-win_amd64.whl.metadata (20 kB)
+Requirement already satisfied: protobuf in c:\users\ekzmd\desktop\dasibom-project\dasibom-ai\venv\lib\site-packages (6.33.1)
+Collecting sounddevice
+  Downloading sounddevice-0.5.3-py3-none-win_amd64.whl.metadata (1.6 kB)
